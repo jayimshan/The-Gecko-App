@@ -1,0 +1,2 @@
+shop_id = 10522158
+checkout_token = ef1633d0a5e1410add24606e745e660f

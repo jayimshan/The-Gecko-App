@@ -1,0 +1,405 @@
+[(1, 'HBVMC-DITSU-POALL-CFQRB')]
+The license is valid!
+Keys are the same
+Success
+1 row selected
+1 row selected
+Release of profile requested but WebEnginePage still not deleted. Expect troubles !
+1 row selected
+1 row selected
+Client Window Resolution: 1400x978
+Starting task [3][test (1)]
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 1014
+Task [3][test (1)] retrying in [1014] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 2119
+Task [3][test (1)] retrying in [2119] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 2166
+Task [3][test (1)] retrying in [2166] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 1926
+Task [3][test (1)] retrying in [1926] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 1003
+Task [3][test (1)] retrying in [1003] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 2288
+Task [3][test (1)] retrying in [2288] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 2369
+Task [3][test (1)] retrying in [2369] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 2291
+Task [3][test (1)] retrying in [2291] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 1343
+Task [3][test (1)] retrying in [1343] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 2179
+Task [3][test (1)] retrying in [2179] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 2597
+Task [3][test (1)] retrying in [2597] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 1194
+Task [3][test (1)] retrying in [1194] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 2260
+Task [3][test (1)] retrying in [2260] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 2010
+Task [3][test (1)] retrying in [2010] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 2081
+Task [3][test (1)] retrying in [2081] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 2547
+Task [3][test (1)] retrying in [2547] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 2480
+Task [3][test (1)] retrying in [2480] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 1780
+Task [3][test (1)] retrying in [1780] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 2476
+Task [3][test (1)] retrying in [2476] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 2549
+Task [3][test (1)] retrying in [2549] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 1493
+Task [3][test (1)] retrying in [1493] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 2100
+Task [3][test (1)] retrying in [2100] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 2881
+Task [3][test (1)] retrying in [2881] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 1072
+Task [3][test (1)] retrying in [1072] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 1032
+Task [3][test (1)] retrying in [1032] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 1883
+Task [3][test (1)] retrying in [1883] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 2708
+Task [3][test (1)] retrying in [2708] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 2403
+Task [3][test (1)] retrying in [2403] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 1498
+Task [3][test (1)] retrying in [1498] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 2118
+Task [3][test (1)] retrying in [2118] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 1410
+Task [3][test (1)] retrying in [1410] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 1459
+Task [3][test (1)] retrying in [1459] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 1800
+Task [3][test (1)] retrying in [1800] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 2824
+Task [3][test (1)] retrying in [2824] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 2300
+Task [3][test (1)] retrying in [2300] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 2392
+Task [3][test (1)] retrying in [2392] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 2229
+Task [3][test (1)] retrying in [2229] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 1948
+Task [3][test (1)] retrying in [1948] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 2379
+Task [3][test (1)] retrying in [2379] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 2462
+Task [3][test (1)] retrying in [2462] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 1644
+Task [3][test (1)] retrying in [1644] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 2134
+Task [3][test (1)] retrying in [2134] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 2378
+Task [3][test (1)] retrying in [2378] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 1287
+Task [3][test (1)] retrying in [1287] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 1739
+Task [3][test (1)] retrying in [1739] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 2452
+Task [3][test (1)] retrying in [2452] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 1450
+Task [3][test (1)] retrying in [1450] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 1392
+Task [3][test (1)] retrying in [1392] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://edtmqr:kmzorr@63.115.148.214:17102
+Task [3][test (1)] delay: 2780
+Task [3][test (1)] retrying in [2780] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://pwlvkq:niaupq@63.115.148.129:17102
+Task [3][test (1)] delay: 2676
+Task [3][test (1)] retrying in [2676] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://imjztp:npyscc@63.115.150.219:17102
+Task [3][test (1)] delay: 1890
+Task [3][test (1)] retrying in [1890] milliseconds
+PUT Lock aquired
+PUT Lock release
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://qjpabz:jijzad@63.115.148.26:17102
+Task [3][test (1)] delay: 1771
+Task [3][test (1)] retrying in [1771] milliseconds
+1 row selected
+Client Window Resolution: 1427x790
+Starting task [3][test (1)]
+GET Lock aquired
+GET Lock release
+Task [3][test (1)] proxy: https://iwqoma:vjqjjm@63.115.149.196:17102
+Task [3][test (1)] delay: 1547
+Adding to cart
+https://store.obeygiant.com/checkpoint?return_to=https%3A%2F%2Fstore.obeygiant.com%2Fcart%2F
+
+  Checkpoint – Store - Obey Giant
+  
+Tokens: 1
+4gK7TF9kZvlcv6+bYOH7XXnoeQJRFmNLJaF8sUbWCiT0C4INGLHd3RKlW63iN3p4WUUDuVSAJXRASX7zH9tYmw==
+No available browsers
+js: Uncaught ReferenceError: grecaptcha is not defined
+03AERD8XpnKZESyErMrNeA33mipmC8hu8qobEShT6_7VFaK1vJhj_HtH2vn8iCA26nuxpu33IAmLMRgmfIEklcwn0Vbynj1CLKwy56DSYDt0RJLyK4TAIK3btntVDwy1L9i-Z87QSR9J2_yLGfbXLV_DKoWuCmiupnmygClQtuu4tfmDHkD84ou5z9QG1pIrE77giX-cJTMKTv7GFZAyb6zyGlYO2M6CFBiuDR44q0XgO0F2kyX9MG75EbVkNNSom8CiNxTSjFyE_HP2ZPFFw4Rs8KaNnjrjV-wvgW291gGzMGGAMllYhnVxz83dIRvETcHLRjAJt-MjooflxqlflZMx28m-iPn2JNFPkNZ_Jgcf0nMKn0GDcBrtwiUNxjIsgjUG8OorXii4uKVRpwlBC58dVL4_PpbCCaMqYwFm0MITcpC7__wtqulH9wRALMC6_-kO-sRKrOloF30PmCFkcg-jOSP7uJwZ86MQ
+Adding to queue
+03AERD8XpnKZESyErMrNeA33mipmC8hu8qobEShT6_7VFaK1vJhj_HtH2vn8iCA26nuxpu33IAmLMRgmfIEklcwn0Vbynj1CLKwy56DSYDt0RJLyK4TAIK3btntVDwy1L9i-Z87QSR9J2_yLGfbXLV_DKoWuCmiupnmygClQtuu4tfmDHkD84ou5z9QG1pIrE77giX-cJTMKTv7GFZAyb6zyGlYO2M6CFBiuDR44q0XgO0F2kyX9MG75EbVkNNSom8CiNxTSjFyE_HP2ZPFFw4Rs8KaNnjrjV-wvgW291gGzMGGAMllYhnVxz83dIRvETcHLRjAJt-MjooflxqlflZMx28m-iPn2JNFPkNZ_Jgcf0nMKn0GDcBrtwiUNxjIsgjUG8OorXii4uKVRpwlBC58dVL4_PpbCCaMqYwFm0MITcpC7__wtqulH9wRALMC6_-kO-sRKrOloF30PmCFkcg-jOSP7uJwZ86MQ
+Submitting info
+https://store.obeygiant.com/checkpoint
+
+  404 Not Found – Store - Obey Giant
+  
+Tokens: 0
+Traceback (most recent call last):
+  File "C:\Users\jayimshan\Dropbox\Projects\the_gecko_app\task.py", line 408, in run
+    if self.store.submit_info(self.proxy):
+  File "C:\Users\jayimshan\Dropbox\Projects\the_gecko_app\store_obeygiant.py", line 317, in submit_info
+    self.authenticity_token = tokens[0]['value']
+IndexError: list index out of range
+[Finished in 502.9s]

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+		<!-- <script src="https://www.recaptcha.net/recaptcha/api.js"></script> -->
+		<!-- <script src="https://www.google.com/recaptcha/api.js?render={{ sitekey }}"></script> -->
+	</head>
+	<body>
+		<!-- <form action="#" id=my_form method="POST"> -->
+			<div class="g-recaptcha" data-sitekey={{ sitekey }}></div>
+		<!-- </form> -->
+		<!-- <script>
+		grecaptcha.ready(function() {
+		    grecaptcha.execute('{{ sitekey }}', {action: 'homepage'}).then(function(token) {
+		       ...
+		    });
+		});
+		</script> -->
+	</body>
+</html>

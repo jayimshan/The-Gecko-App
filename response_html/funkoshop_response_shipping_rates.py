@@ -1,0 +1,3 @@
+data = {'shipping_rates': [{'name': 'Flat Rate Shipping (we cannot ship to P.O. Boxes)', 'presentment_name': 'Flat Rate Shipping (we cannot ship to P.O. Boxes)', 'code': 'Flat Rate Shipping (we cannot ship to P.O. Boxes)', 'price': '6.95', 'markup': None, 'source': 'shopify', 'delivery_date': None, 'delivery_range': None, 'delivery_days': [], 'compare_price': None, 'phone_required': None, 'currency': 'USD', 'carrier_identifier': None, 'delivery_category': None, 'using_merchant_account': None, 'carrier_service_id': None, 'description': None, 'api_client_id': None, 'requested_fulfillment_service_id': None, 'shipment_options': None, 'charge_items': None, 'has_restrictions': None, 'rating_classification': None}]}
+
+print(data['shipping_rates'][0]['name'])
